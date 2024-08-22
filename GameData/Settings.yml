@@ -1,0 +1,8 @@
+GeneralSettings:
+  sound: true
+  skip21: true
+Keybinds:
+  H: ["w", "up"]
+  S: ["s", "down"]
+  D: ["d", "left"]
+  P: ["a", "right"]
