@@ -14,3 +14,5 @@ S20  VS 8  | P instead of S
 D20  VS 2  | P instead of S
 16   VS 3  | P instead of S
 10   VS 9  | H instead of D
+9    VS 8  | D instead of H
+15   VS 7  | S instead of H
