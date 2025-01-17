@@ -1,8 +1,8 @@
 GeneralStatistics:
-  HandsPlayed: 71
-  HandsPlayedCorrectly: 52
-  HardHandsPlayed: 54
-  HardHandsPlayedCorrectly: 39
+  HandsPlayed: 74
+  HandsPlayedCorrectly: 53
+  HardHandsPlayed: 56
+  HardHandsPlayedCorrectly: 40
   Last50Hands:
   - 1
   - 1
@@ -74,6 +74,9 @@ GeneralStatistics:
   - 1
   - 0
   - 0
+  - 0
+  - 0
+  - 1
   Last50HardHands:
   - 1
   - 1
@@ -91,8 +94,6 @@ GeneralStatistics:
   - 1
   - 1
   - 1
-  - 1
-  - 1
   - 0
   - 0
   - 0
@@ -125,6 +126,8 @@ GeneralStatistics:
   - 1
   - 0
   - 0
+  - 0
+  - 1
   Last50PairHands:
   - 0
   - 0
@@ -144,12 +147,13 @@ GeneralStatistics:
   - 1
   - 1
   - 1
+  - 0
   PairHandsPlayed: 2
   PairHandsPlayedCorrectly: 0
-  SoftHandsPlayed: 15
+  SoftHandsPlayed: 16
   SoftHandsPlayedCorrectly: 13
-  TimePlayed: 19
+  TimePlayed: 21
   TimePlayedHard: 0
   TimePlayedPair: 0
-  TimePlayedRandom: 19
+  TimePlayedRandom: 21
   TimePlayedSoft: 0

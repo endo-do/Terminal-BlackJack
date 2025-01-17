@@ -152,9 +152,9 @@ DealerHand:
         played_correctly: 0
         played_incorrectly: 0
       '11':
-        played: 0
+        played: 1
         played_correctly: 0
-        played_incorrectly: 0
+        played_incorrectly: 1
       '12':
         played: 0
         played_correctly: 0
@@ -1044,8 +1044,8 @@ DealerHand:
         played_correctly: 0
         played_incorrectly: 0
       '15':
-        played: 1
-        played_correctly: 0
+        played: 2
+        played_correctly: 1
         played_incorrectly: 1
       '16':
         played: 1
@@ -1440,9 +1440,9 @@ DealerHand:
         played_correctly: 0
         played_incorrectly: 0
       S18:
-        played: 0
+        played: 1
         played_correctly: 0
-        played_incorrectly: 0
+        played_incorrectly: 1
       S19:
         played: 0
         played_correctly: 0
